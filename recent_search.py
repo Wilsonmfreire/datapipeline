@@ -20,11 +20,10 @@ def create_url():
     # possibly_sensitive, promoted_metrics, public_metrics, referenced_tweets,
     # source, text, and withheld
     ##usando API p/buscar informacoes pontuais
-    tweet_fields = "tweet.fields=author_id, conversation_id, created_at, id, in_reply_to_user_id, public_metrics, text"
+    tweet_fields = "tweet.fields=author_id,conversation_id,created_at,id,in_reply_to_user_id,public_metrics,text"
     ##expandido os usuarios, autor, id, quando foi criado
-    user_fields = "expansions=author_id&user.fields=id, name, username, created_at"
-    ##buscando data inicial e final
-    filters = "start_time=2021-02-15T00:00:00Z&end_time=2021-02-19T00:00:00Z"
+    user_fields = "expansions=author_id&user.fields=id,name,username,created_at"
+    filters = "start_time=2021-02-15T00:00:00.00Z&end_time=2021-02-19T00:00:00.00Z"
     url = "https://api.twitter.com/2/tweets/search/recent?query={}&{}&{}&{}".format(
         query, tweet_fields, user_fields, filters
     )
@@ -43,7 +42,7 @@ def connect_to_endpoint(url, headers):
         raise Exception(response.status_code, response.text)
     return response.json()
 
-##montando paginacao, receber mais do que 10 pg
+#####metodo de paginacao
 def paginate(url, headers, next_token=""):
     if next_token:
         full_url = f"{url}&next_token={next_token}"
@@ -64,3 +63,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
