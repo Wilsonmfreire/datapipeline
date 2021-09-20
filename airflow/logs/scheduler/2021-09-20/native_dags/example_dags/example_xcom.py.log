@@ -1,0 +1,98 @@
+[2021-09-20 01:59:47,547] {processor.py:162} INFO - Started process (PID=23653) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 01:59:47,548] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-09-20 01:59:47,566] {logging_mixin.py:109} INFO - [2021-09-20 01:59:47,565] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 01:59:47,638] {processor.py:623} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 01:59:47,724] {logging_mixin.py:109} INFO - [2021-09-20 01:59:47,724] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 01:59:47,802] {logging_mixin.py:109} INFO - [2021-09-20 01:59:47,802] {dag.py:2287} INFO - Setting next_dagrun for example_xcom to 2021-09-18 00:00:00+00:00
+[2021-09-20 01:59:47,851] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.320 seconds
+[2021-09-20 02:00:30,646] {processor.py:162} INFO - Started process (PID=23832) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:00:30,654] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-09-20 02:00:30,655] {logging_mixin.py:109} INFO - [2021-09-20 02:00:30,655] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:00:30,681] {processor.py:623} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:00:30,728] {logging_mixin.py:109} INFO - [2021-09-20 02:00:30,728] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:00:30,779] {logging_mixin.py:109} INFO - [2021-09-20 02:00:30,779] {dag.py:2287} INFO - Setting next_dagrun for example_xcom to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:00:30,811] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.169 seconds
+[2021-09-20 02:01:09,404] {processor.py:162} INFO - Started process (PID=23985) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:01:09,410] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-09-20 02:01:09,411] {logging_mixin.py:109} INFO - [2021-09-20 02:01:09,411] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:01:09,440] {processor.py:623} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:01:09,475] {logging_mixin.py:109} INFO - [2021-09-20 02:01:09,474] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:01:09,500] {logging_mixin.py:109} INFO - [2021-09-20 02:01:09,500] {dag.py:2287} INFO - Setting next_dagrun for example_xcom to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:01:09,537] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.136 seconds
+[2021-09-20 02:01:48,211] {processor.py:162} INFO - Started process (PID=24146) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:01:48,214] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-09-20 02:01:48,214] {logging_mixin.py:109} INFO - [2021-09-20 02:01:48,214] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:01:48,228] {processor.py:623} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:01:48,248] {logging_mixin.py:109} INFO - [2021-09-20 02:01:48,248] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:01:48,261] {logging_mixin.py:109} INFO - [2021-09-20 02:01:48,261] {dag.py:2287} INFO - Setting next_dagrun for example_xcom to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:01:48,284] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.078 seconds
+[2021-09-20 02:02:42,938] {processor.py:162} INFO - Started process (PID=24358) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:02:42,940] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-09-20 02:02:42,942] {logging_mixin.py:109} INFO - [2021-09-20 02:02:42,942] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:02:42,955] {processor.py:623} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:02:42,974] {logging_mixin.py:109} INFO - [2021-09-20 02:02:42,974] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:02:42,986] {logging_mixin.py:109} INFO - [2021-09-20 02:02:42,986] {dag.py:2287} INFO - Setting next_dagrun for example_xcom to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:02:43,001] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.067 seconds
+[2021-09-20 02:03:26,334] {processor.py:162} INFO - Started process (PID=24522) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:03:26,336] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-09-20 02:03:26,338] {logging_mixin.py:109} INFO - [2021-09-20 02:03:26,338] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:03:26,365] {processor.py:623} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:03:26,406] {logging_mixin.py:109} INFO - [2021-09-20 02:03:26,406] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:03:26,434] {logging_mixin.py:109} INFO - [2021-09-20 02:03:26,434] {dag.py:2287} INFO - Setting next_dagrun for example_xcom to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:03:26,454] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.124 seconds
+[2021-09-20 02:04:07,100] {processor.py:162} INFO - Started process (PID=24668) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:04:07,102] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-09-20 02:04:07,103] {logging_mixin.py:109} INFO - [2021-09-20 02:04:07,103] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:04:07,156] {processor.py:623} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:04:07,205] {logging_mixin.py:109} INFO - [2021-09-20 02:04:07,205] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:04:07,233] {logging_mixin.py:109} INFO - [2021-09-20 02:04:07,233] {dag.py:2287} INFO - Setting next_dagrun for example_xcom to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:04:07,256] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.159 seconds
+[2021-09-20 02:04:47,463] {processor.py:162} INFO - Started process (PID=24830) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:04:47,470] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-09-20 02:04:47,472] {logging_mixin.py:109} INFO - [2021-09-20 02:04:47,472] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:04:47,522] {processor.py:623} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:04:47,547] {logging_mixin.py:109} INFO - [2021-09-20 02:04:47,547] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:04:47,592] {logging_mixin.py:109} INFO - [2021-09-20 02:04:47,592] {dag.py:2287} INFO - Setting next_dagrun for example_xcom to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:04:47,634] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.179 seconds
+[2021-09-20 02:05:26,534] {processor.py:162} INFO - Started process (PID=24962) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:05:26,544] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-09-20 02:05:26,561] {logging_mixin.py:109} INFO - [2021-09-20 02:05:26,561] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:05:26,632] {processor.py:623} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:05:26,723] {logging_mixin.py:109} INFO - [2021-09-20 02:05:26,722] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:05:26,794] {logging_mixin.py:109} INFO - [2021-09-20 02:05:26,794] {dag.py:2287} INFO - Setting next_dagrun for example_xcom to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:05:26,853] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.350 seconds
+[2021-09-20 02:06:06,819] {processor.py:162} INFO - Started process (PID=25111) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:06:06,822] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-09-20 02:06:06,823] {logging_mixin.py:109} INFO - [2021-09-20 02:06:06,823] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:06:06,839] {processor.py:623} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:06:06,858] {logging_mixin.py:109} INFO - [2021-09-20 02:06:06,858] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:06:06,868] {logging_mixin.py:109} INFO - [2021-09-20 02:06:06,868] {dag.py:2287} INFO - Setting next_dagrun for example_xcom to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:06:06,891] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.076 seconds
+[2021-09-20 02:06:45,171] {processor.py:162} INFO - Started process (PID=25263) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:06:45,196] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-09-20 02:06:45,201] {logging_mixin.py:109} INFO - [2021-09-20 02:06:45,201] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:06:45,255] {processor.py:623} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:06:45,341] {logging_mixin.py:109} INFO - [2021-09-20 02:06:45,341] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:06:45,402] {logging_mixin.py:109} INFO - [2021-09-20 02:06:45,402] {dag.py:2287} INFO - Setting next_dagrun for example_xcom to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:06:45,473] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.312 seconds
+[2021-09-20 02:07:39,156] {processor.py:162} INFO - Started process (PID=25461) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:07:39,158] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-09-20 02:07:39,159] {logging_mixin.py:109} INFO - [2021-09-20 02:07:39,159] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:07:39,230] {processor.py:623} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:07:39,309] {logging_mixin.py:109} INFO - [2021-09-20 02:07:39,309] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:07:39,367] {logging_mixin.py:109} INFO - [2021-09-20 02:07:39,367] {dag.py:2287} INFO - Setting next_dagrun for example_xcom to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:07:39,415] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.287 seconds
+[2021-09-20 02:08:19,822] {processor.py:162} INFO - Started process (PID=25631) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:08:19,826] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-09-20 02:08:19,827] {logging_mixin.py:109} INFO - [2021-09-20 02:08:19,826] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:08:19,842] {processor.py:623} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:08:19,866] {logging_mixin.py:109} INFO - [2021-09-20 02:08:19,866] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:08:19,882] {logging_mixin.py:109} INFO - [2021-09-20 02:08:19,882] {dag.py:2287} INFO - Setting next_dagrun for example_xcom to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:08:19,904] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.085 seconds
+[2021-09-20 02:08:54,966] {processor.py:162} INFO - Started process (PID=25832) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:08:54,970] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-09-20 02:08:54,970] {logging_mixin.py:109} INFO - [2021-09-20 02:08:54,970] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:08:55,022] {processor.py:623} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-09-20 02:08:55,085] {logging_mixin.py:109} INFO - [2021-09-20 02:08:55,076] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:08:55,125] {logging_mixin.py:109} INFO - [2021-09-20 02:08:55,125] {dag.py:2287} INFO - Setting next_dagrun for example_xcom to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:08:55,154] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.200 seconds

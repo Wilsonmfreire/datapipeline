@@ -1,0 +1,98 @@
+[2021-09-20 01:59:46,510] {processor.py:162} INFO - Started process (PID=23647) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 01:59:46,511] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-20 01:59:46,512] {logging_mixin.py:109} INFO - [2021-09-20 01:59:46,511] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 01:59:46,564] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 01:59:46,651] {logging_mixin.py:109} INFO - [2021-09-20 01:59:46,651] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 01:59:46,702] {logging_mixin.py:109} INFO - [2021-09-20 01:59:46,702] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-18 00:00:00+00:00
+[2021-09-20 01:59:46,754] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.271 seconds
+[2021-09-20 02:00:29,161] {processor.py:162} INFO - Started process (PID=23827) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:00:29,163] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-20 02:00:29,170] {logging_mixin.py:109} INFO - [2021-09-20 02:00:29,169] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:00:29,251] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:00:29,309] {logging_mixin.py:109} INFO - [2021-09-20 02:00:29,309] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:00:29,340] {logging_mixin.py:109} INFO - [2021-09-20 02:00:29,340] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:00:29,380] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.229 seconds
+[2021-09-20 02:01:09,046] {processor.py:162} INFO - Started process (PID=23982) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:01:09,048] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-20 02:01:09,048] {logging_mixin.py:109} INFO - [2021-09-20 02:01:09,048] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:01:09,076] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:01:09,116] {logging_mixin.py:109} INFO - [2021-09-20 02:01:09,116] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:01:09,148] {logging_mixin.py:109} INFO - [2021-09-20 02:01:09,148] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:01:09,171] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.137 seconds
+[2021-09-20 02:01:46,888] {processor.py:162} INFO - Started process (PID=24140) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:01:46,890] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-20 02:01:46,890] {logging_mixin.py:109} INFO - [2021-09-20 02:01:46,890] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:01:46,910] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:01:46,938] {logging_mixin.py:109} INFO - [2021-09-20 02:01:46,938] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:01:46,969] {logging_mixin.py:109} INFO - [2021-09-20 02:01:46,964] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:01:46,987] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.102 seconds
+[2021-09-20 02:02:41,791] {processor.py:162} INFO - Started process (PID=24353) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:02:41,794] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-20 02:02:41,795] {logging_mixin.py:109} INFO - [2021-09-20 02:02:41,795] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:02:41,809] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:02:41,827] {logging_mixin.py:109} INFO - [2021-09-20 02:02:41,827] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:02:41,837] {logging_mixin.py:109} INFO - [2021-09-20 02:02:41,837] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:02:41,852] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.065 seconds
+[2021-09-20 02:03:25,160] {processor.py:162} INFO - Started process (PID=24517) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:03:25,164] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-20 02:03:25,164] {logging_mixin.py:109} INFO - [2021-09-20 02:03:25,164] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:03:25,181] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:03:25,201] {logging_mixin.py:109} INFO - [2021-09-20 02:03:25,201] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:03:25,216] {logging_mixin.py:109} INFO - [2021-09-20 02:03:25,215] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:03:25,238] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.082 seconds
+[2021-09-20 02:04:06,040] {processor.py:162} INFO - Started process (PID=24664) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:04:06,046] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-20 02:04:06,047] {logging_mixin.py:109} INFO - [2021-09-20 02:04:06,047] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:04:06,062] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:04:06,084] {logging_mixin.py:109} INFO - [2021-09-20 02:04:06,084] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:04:06,095] {logging_mixin.py:109} INFO - [2021-09-20 02:04:06,095] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:04:06,114] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.077 seconds
+[2021-09-20 02:04:46,159] {processor.py:162} INFO - Started process (PID=24823) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:04:46,166] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-20 02:04:46,166] {logging_mixin.py:109} INFO - [2021-09-20 02:04:46,166] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:04:46,210] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:04:46,240] {logging_mixin.py:109} INFO - [2021-09-20 02:04:46,240] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:04:46,269] {logging_mixin.py:109} INFO - [2021-09-20 02:04:46,268] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:04:46,297] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.147 seconds
+[2021-09-20 02:05:25,019] {processor.py:162} INFO - Started process (PID=24959) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:05:25,027] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-20 02:05:25,028] {logging_mixin.py:109} INFO - [2021-09-20 02:05:25,028] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:05:25,097] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:05:25,167] {logging_mixin.py:109} INFO - [2021-09-20 02:05:25,166] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:05:25,225] {logging_mixin.py:109} INFO - [2021-09-20 02:05:25,225] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:05:25,259] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.249 seconds
+[2021-09-20 02:06:05,630] {processor.py:162} INFO - Started process (PID=25105) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:06:05,633] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-20 02:06:05,634] {logging_mixin.py:109} INFO - [2021-09-20 02:06:05,634] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:06:05,654] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:06:05,673] {logging_mixin.py:109} INFO - [2021-09-20 02:06:05,673] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:06:05,683] {logging_mixin.py:109} INFO - [2021-09-20 02:06:05,683] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:06:05,699] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2021-09-20 02:06:43,568] {processor.py:162} INFO - Started process (PID=25257) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:06:43,586] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-20 02:06:43,587] {logging_mixin.py:109} INFO - [2021-09-20 02:06:43,587] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:06:43,633] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:06:43,708] {logging_mixin.py:109} INFO - [2021-09-20 02:06:43,707] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:06:43,772] {logging_mixin.py:109} INFO - [2021-09-20 02:06:43,772] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:06:43,827] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.273 seconds
+[2021-09-20 02:07:38,175] {processor.py:162} INFO - Started process (PID=25455) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:07:38,187] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-20 02:07:38,187] {logging_mixin.py:109} INFO - [2021-09-20 02:07:38,187] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:07:38,244] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:07:38,322] {logging_mixin.py:109} INFO - [2021-09-20 02:07:38,322] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:07:38,386] {logging_mixin.py:109} INFO - [2021-09-20 02:07:38,386] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:07:38,428] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.265 seconds
+[2021-09-20 02:08:18,526] {processor.py:162} INFO - Started process (PID=25625) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:08:18,531] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-20 02:08:18,531] {logging_mixin.py:109} INFO - [2021-09-20 02:08:18,531] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:08:18,575] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:08:18,593] {logging_mixin.py:109} INFO - [2021-09-20 02:08:18,593] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:08:18,604] {logging_mixin.py:109} INFO - [2021-09-20 02:08:18,604] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:08:18,623] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.109 seconds
+[2021-09-20 02:08:53,506] {processor.py:162} INFO - Started process (PID=25826) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:08:53,510] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2021-09-20 02:08:53,511] {logging_mixin.py:109} INFO - [2021-09-20 02:08:53,511] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:08:53,568] {processor.py:623} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2021-09-20 02:08:53,629] {logging_mixin.py:109} INFO - [2021-09-20 02:08:53,629] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:08:53,656] {logging_mixin.py:109} INFO - [2021-09-20 02:08:53,656] {dag.py:2287} INFO - Setting next_dagrun for tutorial to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:08:53,696] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.199 seconds

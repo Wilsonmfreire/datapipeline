@@ -1,0 +1,98 @@
+[2021-09-20 01:59:42,086] {processor.py:162} INFO - Started process (PID=23628) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 01:59:42,087] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-09-20 01:59:42,088] {logging_mixin.py:109} INFO - [2021-09-20 01:59:42,088] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 01:59:42,165] {processor.py:623} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 01:59:42,238] {logging_mixin.py:109} INFO - [2021-09-20 01:59:42,238] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 01:59:42,294] {logging_mixin.py:109} INFO - [2021-09-20 01:59:42,294] {dag.py:2287} INFO - Setting next_dagrun for example_task_group to 2021-09-18 00:00:00+00:00
+[2021-09-20 01:59:42,332] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.266 seconds
+[2021-09-20 02:00:25,203] {processor.py:162} INFO - Started process (PID=23810) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:00:25,221] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-09-20 02:00:25,222] {logging_mixin.py:109} INFO - [2021-09-20 02:00:25,222] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:00:25,277] {processor.py:623} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:00:25,323] {logging_mixin.py:109} INFO - [2021-09-20 02:00:25,322] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:00:25,356] {logging_mixin.py:109} INFO - [2021-09-20 02:00:25,356] {dag.py:2287} INFO - Setting next_dagrun for example_task_group to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:00:25,399] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.202 seconds
+[2021-09-20 02:01:05,395] {processor.py:162} INFO - Started process (PID=23968) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:01:05,397] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-09-20 02:01:05,398] {logging_mixin.py:109} INFO - [2021-09-20 02:01:05,398] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:01:05,414] {processor.py:623} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:01:05,431] {logging_mixin.py:109} INFO - [2021-09-20 02:01:05,431] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:01:05,443] {logging_mixin.py:109} INFO - [2021-09-20 02:01:05,443] {dag.py:2287} INFO - Setting next_dagrun for example_task_group to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:01:05,458] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.067 seconds
+[2021-09-20 02:01:43,152] {processor.py:162} INFO - Started process (PID=24125) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:01:43,160] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-09-20 02:01:43,161] {logging_mixin.py:109} INFO - [2021-09-20 02:01:43,161] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:01:43,200] {processor.py:623} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:01:43,243] {logging_mixin.py:109} INFO - [2021-09-20 02:01:43,243] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:01:43,277] {logging_mixin.py:109} INFO - [2021-09-20 02:01:43,277] {dag.py:2287} INFO - Setting next_dagrun for example_task_group to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:01:43,301] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.157 seconds
+[2021-09-20 02:02:30,005] {processor.py:162} INFO - Started process (PID=24298) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:02:30,007] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-09-20 02:02:30,008] {logging_mixin.py:109} INFO - [2021-09-20 02:02:30,007] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:02:30,023] {processor.py:623} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:02:30,044] {logging_mixin.py:109} INFO - [2021-09-20 02:02:30,043] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:02:30,055] {logging_mixin.py:109} INFO - [2021-09-20 02:02:30,055] {dag.py:2287} INFO - Setting next_dagrun for example_task_group to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:02:30,070] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.069 seconds
+[2021-09-20 02:03:07,604] {processor.py:162} INFO - Started process (PID=24449) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:03:07,612] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-09-20 02:03:07,617] {logging_mixin.py:109} INFO - [2021-09-20 02:03:07,613] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:03:07,660] {processor.py:623} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:03:07,720] {logging_mixin.py:109} INFO - [2021-09-20 02:03:07,720] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:03:07,751] {logging_mixin.py:109} INFO - [2021-09-20 02:03:07,751] {dag.py:2287} INFO - Setting next_dagrun for example_task_group to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:03:07,782] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.186 seconds
+[2021-09-20 02:03:50,622] {processor.py:162} INFO - Started process (PID=24609) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:03:50,626] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-09-20 02:03:50,634] {logging_mixin.py:109} INFO - [2021-09-20 02:03:50,634] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:03:50,691] {processor.py:623} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:03:50,758] {logging_mixin.py:109} INFO - [2021-09-20 02:03:50,757] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:03:50,783] {logging_mixin.py:109} INFO - [2021-09-20 02:03:50,783] {dag.py:2287} INFO - Setting next_dagrun for example_task_group to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:03:50,832] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.230 seconds
+[2021-09-20 02:04:33,134] {processor.py:162} INFO - Started process (PID=24772) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:04:33,138] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-09-20 02:04:33,138] {logging_mixin.py:109} INFO - [2021-09-20 02:04:33,138] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:04:33,184] {processor.py:623} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:04:33,233] {logging_mixin.py:109} INFO - [2021-09-20 02:04:33,233] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:04:33,248] {logging_mixin.py:109} INFO - [2021-09-20 02:04:33,248] {dag.py:2287} INFO - Setting next_dagrun for example_task_group to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:04:33,270] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.160 seconds
+[2021-09-20 02:05:12,267] {processor.py:162} INFO - Started process (PID=24918) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:05:12,271] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-09-20 02:05:12,283] {logging_mixin.py:109} INFO - [2021-09-20 02:05:12,273] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:05:12,378] {processor.py:623} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:05:12,461] {logging_mixin.py:109} INFO - [2021-09-20 02:05:12,461] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:05:12,501] {logging_mixin.py:109} INFO - [2021-09-20 02:05:12,501] {dag.py:2287} INFO - Setting next_dagrun for example_task_group to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:05:12,536] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.288 seconds
+[2021-09-20 02:05:58,275] {processor.py:162} INFO - Started process (PID=25071) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:05:58,281] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-09-20 02:05:58,282] {logging_mixin.py:109} INFO - [2021-09-20 02:05:58,282] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:05:58,300] {processor.py:623} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:05:58,321] {logging_mixin.py:109} INFO - [2021-09-20 02:05:58,320] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:05:58,333] {logging_mixin.py:109} INFO - [2021-09-20 02:05:58,332] {dag.py:2287} INFO - Setting next_dagrun for example_task_group to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:05:58,352] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.081 seconds
+[2021-09-20 02:06:37,288] {processor.py:162} INFO - Started process (PID=25232) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:06:37,302] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-09-20 02:06:37,303] {logging_mixin.py:109} INFO - [2021-09-20 02:06:37,303] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:06:37,349] {processor.py:623} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:06:37,407] {logging_mixin.py:109} INFO - [2021-09-20 02:06:37,407] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:06:37,450] {logging_mixin.py:109} INFO - [2021-09-20 02:06:37,450] {dag.py:2287} INFO - Setting next_dagrun for example_task_group to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:06:37,505] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.238 seconds
+[2021-09-20 02:07:34,221] {processor.py:162} INFO - Started process (PID=25439) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:07:34,227] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-09-20 02:07:34,228] {logging_mixin.py:109} INFO - [2021-09-20 02:07:34,228] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:07:34,301] {processor.py:623} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:07:34,364] {logging_mixin.py:109} INFO - [2021-09-20 02:07:34,364] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:07:34,404] {logging_mixin.py:109} INFO - [2021-09-20 02:07:34,404] {dag.py:2287} INFO - Setting next_dagrun for example_task_group to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:07:34,440] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.229 seconds
+[2021-09-20 02:08:07,793] {processor.py:162} INFO - Started process (PID=25577) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:08:07,800] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-09-20 02:08:07,804] {logging_mixin.py:109} INFO - [2021-09-20 02:08:07,803] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:08:07,837] {processor.py:623} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:08:07,899] {logging_mixin.py:109} INFO - [2021-09-20 02:08:07,899] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:08:07,940] {logging_mixin.py:109} INFO - [2021-09-20 02:08:07,934] {dag.py:2287} INFO - Setting next_dagrun for example_task_group to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:08:07,977] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.196 seconds
+[2021-09-20 02:08:41,878] {processor.py:162} INFO - Started process (PID=25734) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:08:41,881] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-09-20 02:08:41,882] {logging_mixin.py:109} INFO - [2021-09-20 02:08:41,882] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:08:41,902] {processor.py:623} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2021-09-20 02:08:41,929] {logging_mixin.py:109} INFO - [2021-09-20 02:08:41,929] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:08:41,946] {logging_mixin.py:109} INFO - [2021-09-20 02:08:41,946] {dag.py:2287} INFO - Setting next_dagrun for example_task_group to 2021-09-18 00:00:00+00:00
+[2021-09-20 02:08:41,967] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.093 seconds

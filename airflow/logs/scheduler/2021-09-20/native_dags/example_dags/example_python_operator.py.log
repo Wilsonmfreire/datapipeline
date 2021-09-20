@@ -1,0 +1,105 @@
+[2021-09-20 01:59:29,284] {processor.py:162} INFO - Started process (PID=23582) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 01:59:29,286] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-09-20 01:59:29,287] {logging_mixin.py:109} INFO - [2021-09-20 01:59:29,287] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 01:59:29,328] {processor.py:623} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 01:59:29,386] {logging_mixin.py:109} INFO - [2021-09-20 01:59:29,386] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 01:59:29,438] {logging_mixin.py:109} INFO - [2021-09-20 01:59:29,438] {dag.py:2287} INFO - Setting next_dagrun for example_python_operator to None
+[2021-09-20 01:59:29,470] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.212 seconds
+[2021-09-20 02:00:15,557] {processor.py:162} INFO - Started process (PID=23770) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:00:15,566] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-09-20 02:00:15,567] {logging_mixin.py:109} INFO - [2021-09-20 02:00:15,567] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:00:15,592] {processor.py:623} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:00:15,619] {logging_mixin.py:109} INFO - [2021-09-20 02:00:15,618] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:00:15,632] {logging_mixin.py:109} INFO - [2021-09-20 02:00:15,632] {dag.py:2287} INFO - Setting next_dagrun for example_python_operator to None
+[2021-09-20 02:00:15,648] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.098 seconds
+[2021-09-20 02:00:53,304] {processor.py:162} INFO - Started process (PID=23918) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:00:53,306] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-09-20 02:00:53,307] {logging_mixin.py:109} INFO - [2021-09-20 02:00:53,307] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:00:53,341] {processor.py:623} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:00:53,382] {logging_mixin.py:109} INFO - [2021-09-20 02:00:53,382] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:00:53,423] {logging_mixin.py:109} INFO - [2021-09-20 02:00:53,423] {dag.py:2287} INFO - Setting next_dagrun for example_python_operator to None
+[2021-09-20 02:00:53,482] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.184 seconds
+[2021-09-20 02:01:30,229] {processor.py:162} INFO - Started process (PID=24076) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:01:30,234] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-09-20 02:01:30,237] {logging_mixin.py:109} INFO - [2021-09-20 02:01:30,237] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:01:30,290] {processor.py:623} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:01:30,340] {logging_mixin.py:109} INFO - [2021-09-20 02:01:30,340] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:01:30,375] {logging_mixin.py:109} INFO - [2021-09-20 02:01:30,375] {dag.py:2287} INFO - Setting next_dagrun for example_python_operator to None
+[2021-09-20 02:01:30,403] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.185 seconds
+[2021-09-20 02:02:21,526] {processor.py:162} INFO - Started process (PID=24262) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:02:21,530] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-09-20 02:02:21,531] {logging_mixin.py:109} INFO - [2021-09-20 02:02:21,530] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:02:21,546] {processor.py:623} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:02:21,566] {logging_mixin.py:109} INFO - [2021-09-20 02:02:21,566] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:02:21,577] {logging_mixin.py:109} INFO - [2021-09-20 02:02:21,577] {dag.py:2287} INFO - Setting next_dagrun for example_python_operator to None
+[2021-09-20 02:02:21,592] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.069 seconds
+[2021-09-20 02:02:56,297] {processor.py:162} INFO - Started process (PID=24412) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:02:56,303] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-09-20 02:02:56,303] {logging_mixin.py:109} INFO - [2021-09-20 02:02:56,303] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:02:56,327] {processor.py:623} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:02:56,364] {logging_mixin.py:109} INFO - [2021-09-20 02:02:56,363] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:02:56,379] {logging_mixin.py:109} INFO - [2021-09-20 02:02:56,379] {dag.py:2287} INFO - Setting next_dagrun for example_python_operator to None
+[2021-09-20 02:02:56,400] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.110 seconds
+[2021-09-20 02:03:38,049] {processor.py:162} INFO - Started process (PID=24567) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:03:38,051] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-09-20 02:03:38,052] {logging_mixin.py:109} INFO - [2021-09-20 02:03:38,052] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:03:38,069] {processor.py:623} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:03:38,089] {logging_mixin.py:109} INFO - [2021-09-20 02:03:38,088] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:03:38,103] {logging_mixin.py:109} INFO - [2021-09-20 02:03:38,103] {dag.py:2287} INFO - Setting next_dagrun for example_python_operator to None
+[2021-09-20 02:03:38,119] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.073 seconds
+[2021-09-20 02:04:18,735] {processor.py:162} INFO - Started process (PID=24719) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:04:18,740] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-09-20 02:04:18,748] {logging_mixin.py:109} INFO - [2021-09-20 02:04:18,743] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:04:18,794] {processor.py:623} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:04:18,870] {logging_mixin.py:109} INFO - [2021-09-20 02:04:18,870] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:04:18,921] {logging_mixin.py:109} INFO - [2021-09-20 02:04:18,920] {dag.py:2287} INFO - Setting next_dagrun for example_python_operator to None
+[2021-09-20 02:04:18,967] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.241 seconds
+[2021-09-20 02:04:56,420] {processor.py:162} INFO - Started process (PID=24863) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:04:56,422] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-09-20 02:04:56,423] {logging_mixin.py:109} INFO - [2021-09-20 02:04:56,423] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:04:56,443] {processor.py:623} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:04:56,461] {logging_mixin.py:109} INFO - [2021-09-20 02:04:56,460] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:04:56,474] {logging_mixin.py:109} INFO - [2021-09-20 02:04:56,474] {dag.py:2287} INFO - Setting next_dagrun for example_python_operator to None
+[2021-09-20 02:04:56,489] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.074 seconds
+[2021-09-20 02:05:41,531] {processor.py:162} INFO - Started process (PID=25010) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:05:41,538] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-09-20 02:05:41,549] {logging_mixin.py:109} INFO - [2021-09-20 02:05:41,549] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:05:41,616] {processor.py:623} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:05:41,668] {logging_mixin.py:109} INFO - [2021-09-20 02:05:41,667] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:05:41,703] {logging_mixin.py:109} INFO - [2021-09-20 02:05:41,703] {dag.py:2287} INFO - Setting next_dagrun for example_python_operator to None
+[2021-09-20 02:05:41,761] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.241 seconds
+[2021-09-20 02:06:17,840] {processor.py:162} INFO - Started process (PID=25153) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:06:17,844] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-09-20 02:06:17,845] {logging_mixin.py:109} INFO - [2021-09-20 02:06:17,845] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:06:17,866] {processor.py:623} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:06:17,883] {logging_mixin.py:109} INFO - [2021-09-20 02:06:17,883] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:06:17,906] {logging_mixin.py:109} INFO - [2021-09-20 02:06:17,906] {dag.py:2287} INFO - Setting next_dagrun for example_python_operator to None
+[2021-09-20 02:06:17,927] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.095 seconds
+[2021-09-20 02:07:11,574] {processor.py:162} INFO - Started process (PID=25350) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:07:11,575] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-09-20 02:07:11,576] {logging_mixin.py:109} INFO - [2021-09-20 02:07:11,576] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:07:11,591] {processor.py:623} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:07:11,616] {logging_mixin.py:109} INFO - [2021-09-20 02:07:11,616] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:07:11,639] {logging_mixin.py:109} INFO - [2021-09-20 02:07:11,638] {dag.py:2287} INFO - Setting next_dagrun for example_python_operator to None
+[2021-09-20 02:07:11,674] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.104 seconds
+[2021-09-20 02:07:50,084] {processor.py:162} INFO - Started process (PID=25502) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:07:50,090] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-09-20 02:07:50,091] {logging_mixin.py:109} INFO - [2021-09-20 02:07:50,091] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:07:50,127] {processor.py:623} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:07:50,160] {logging_mixin.py:109} INFO - [2021-09-20 02:07:50,160] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:07:50,182] {logging_mixin.py:109} INFO - [2021-09-20 02:07:50,181] {dag.py:2287} INFO - Setting next_dagrun for example_python_operator to None
+[2021-09-20 02:07:50,210] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.129 seconds
+[2021-09-20 02:08:27,686] {processor.py:162} INFO - Started process (PID=25665) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:08:27,690] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-09-20 02:08:27,691] {logging_mixin.py:109} INFO - [2021-09-20 02:08:27,691] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:08:27,709] {processor.py:623} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:08:27,730] {logging_mixin.py:109} INFO - [2021-09-20 02:08:27,730] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:08:27,744] {logging_mixin.py:109} INFO - [2021-09-20 02:08:27,744] {dag.py:2287} INFO - Setting next_dagrun for example_python_operator to None
+[2021-09-20 02:08:27,765] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.083 seconds
+[2021-09-20 02:09:04,246] {processor.py:162} INFO - Started process (PID=25886) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:09:04,248] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2021-09-20 02:09:04,250] {logging_mixin.py:109} INFO - [2021-09-20 02:09:04,250] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:09:04,264] {processor.py:623} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2021-09-20 02:09:04,280] {logging_mixin.py:109} INFO - [2021-09-20 02:09:04,280] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:09:04,291] {logging_mixin.py:109} INFO - [2021-09-20 02:09:04,291] {dag.py:2287} INFO - Setting next_dagrun for example_python_operator to None
+[2021-09-20 02:09:04,306] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.063 seconds

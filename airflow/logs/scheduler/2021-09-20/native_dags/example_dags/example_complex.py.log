@@ -1,0 +1,84 @@
+[2021-09-20 02:00:01,062] {processor.py:162} INFO - Started process (PID=23709) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:00:01,063] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-09-20 02:00:01,064] {logging_mixin.py:109} INFO - [2021-09-20 02:00:01,064] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:00:01,175] {processor.py:623} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:00:01,236] {logging_mixin.py:109} INFO - [2021-09-20 02:00:01,236] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:00:01,274] {logging_mixin.py:109} INFO - [2021-09-20 02:00:01,274] {dag.py:2287} INFO - Setting next_dagrun for example_complex to None
+[2021-09-20 02:00:01,308] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.263 seconds
+[2021-09-20 02:00:42,408] {processor.py:162} INFO - Started process (PID=23873) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:00:42,422] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-09-20 02:00:42,423] {logging_mixin.py:109} INFO - [2021-09-20 02:00:42,423] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:00:42,534] {processor.py:623} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:00:42,612] {logging_mixin.py:109} INFO - [2021-09-20 02:00:42,612] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:00:42,647] {logging_mixin.py:109} INFO - [2021-09-20 02:00:42,646] {dag.py:2287} INFO - Setting next_dagrun for example_complex to None
+[2021-09-20 02:00:42,685] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.281 seconds
+[2021-09-20 02:01:19,853] {processor.py:162} INFO - Started process (PID=24031) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:01:19,856] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-09-20 02:01:19,858] {logging_mixin.py:109} INFO - [2021-09-20 02:01:19,857] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:01:19,919] {processor.py:623} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:01:19,949] {logging_mixin.py:109} INFO - [2021-09-20 02:01:19,949] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:01:19,961] {logging_mixin.py:109} INFO - [2021-09-20 02:01:19,961] {dag.py:2287} INFO - Setting next_dagrun for example_complex to None
+[2021-09-20 02:01:19,975] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.134 seconds
+[2021-09-20 02:02:33,092] {processor.py:162} INFO - Started process (PID=24312) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:02:33,094] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-09-20 02:02:33,095] {logging_mixin.py:109} INFO - [2021-09-20 02:02:33,095] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:02:33,119] {processor.py:623} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:02:33,146] {logging_mixin.py:109} INFO - [2021-09-20 02:02:33,146] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:02:33,157] {logging_mixin.py:109} INFO - [2021-09-20 02:02:33,157] {dag.py:2287} INFO - Setting next_dagrun for example_complex to None
+[2021-09-20 02:02:33,174] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.085 seconds
+[2021-09-20 02:03:13,325] {processor.py:162} INFO - Started process (PID=24471) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:03:13,328] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-09-20 02:03:13,329] {logging_mixin.py:109} INFO - [2021-09-20 02:03:13,329] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:03:13,503] {processor.py:623} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:03:13,590] {logging_mixin.py:109} INFO - [2021-09-20 02:03:13,590] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:03:13,625] {logging_mixin.py:109} INFO - [2021-09-20 02:03:13,625] {dag.py:2287} INFO - Setting next_dagrun for example_complex to None
+[2021-09-20 02:03:13,658] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.374 seconds
+[2021-09-20 02:03:56,807] {processor.py:162} INFO - Started process (PID=24632) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:03:56,808] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-09-20 02:03:56,810] {logging_mixin.py:109} INFO - [2021-09-20 02:03:56,809] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:03:56,839] {processor.py:623} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:03:56,873] {logging_mixin.py:109} INFO - [2021-09-20 02:03:56,873] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:03:56,889] {logging_mixin.py:109} INFO - [2021-09-20 02:03:56,888] {dag.py:2287} INFO - Setting next_dagrun for example_complex to None
+[2021-09-20 02:03:56,919] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.117 seconds
+[2021-09-20 02:04:38,380] {processor.py:162} INFO - Started process (PID=24793) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:04:38,383] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-09-20 02:04:38,387] {logging_mixin.py:109} INFO - [2021-09-20 02:04:38,384] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:04:38,410] {processor.py:623} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:04:38,436] {logging_mixin.py:109} INFO - [2021-09-20 02:04:38,436] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:04:38,446] {logging_mixin.py:109} INFO - [2021-09-20 02:04:38,446] {dag.py:2287} INFO - Setting next_dagrun for example_complex to None
+[2021-09-20 02:04:38,471] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.095 seconds
+[2021-09-20 02:05:32,844] {processor.py:162} INFO - Started process (PID=24983) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:05:32,854] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-09-20 02:05:32,860] {logging_mixin.py:109} INFO - [2021-09-20 02:05:32,860] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:05:33,009] {processor.py:623} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:05:33,128] {logging_mixin.py:109} INFO - [2021-09-20 02:05:33,128] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:05:33,189] {logging_mixin.py:109} INFO - [2021-09-20 02:05:33,189] {dag.py:2287} INFO - Setting next_dagrun for example_complex to None
+[2021-09-20 02:05:33,228] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.392 seconds
+[2021-09-20 02:06:12,583] {processor.py:162} INFO - Started process (PID=25131) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:06:12,590] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-09-20 02:06:12,597] {logging_mixin.py:109} INFO - [2021-09-20 02:06:12,597] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:06:12,709] {processor.py:623} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:06:12,847] {logging_mixin.py:109} INFO - [2021-09-20 02:06:12,846] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:06:12,909] {logging_mixin.py:109} INFO - [2021-09-20 02:06:12,909] {dag.py:2287} INFO - Setting next_dagrun for example_complex to None
+[2021-09-20 02:06:12,972] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.421 seconds
+[2021-09-20 02:07:24,944] {processor.py:162} INFO - Started process (PID=25400) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:07:24,948] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-09-20 02:07:24,949] {logging_mixin.py:109} INFO - [2021-09-20 02:07:24,949] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:07:24,978] {processor.py:623} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:07:25,011] {logging_mixin.py:109} INFO - [2021-09-20 02:07:25,011] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:07:25,064] {logging_mixin.py:109} INFO - [2021-09-20 02:07:25,063] {dag.py:2287} INFO - Setting next_dagrun for example_complex to None
+[2021-09-20 02:07:25,114] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.174 seconds
+[2021-09-20 02:08:05,376] {processor.py:162} INFO - Started process (PID=25567) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:08:05,382] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-09-20 02:08:05,390] {logging_mixin.py:109} INFO - [2021-09-20 02:08:05,389] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:08:05,452] {processor.py:623} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:08:05,493] {logging_mixin.py:109} INFO - [2021-09-20 02:08:05,492] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:08:05,519] {logging_mixin.py:109} INFO - [2021-09-20 02:08:05,519] {dag.py:2287} INFO - Setting next_dagrun for example_complex to None
+[2021-09-20 02:08:05,542] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.179 seconds
+[2021-09-20 02:08:47,774] {processor.py:162} INFO - Started process (PID=25759) to work on /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:08:47,785] {processor.py:613} INFO - Processing file /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-09-20 02:08:47,786] {logging_mixin.py:109} INFO - [2021-09-20 02:08:47,786] {dagbag.py:496} INFO - Filling up the DagBag from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:08:48,056] {processor.py:623} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-09-20 02:08:48,206] {logging_mixin.py:109} INFO - [2021-09-20 02:08:48,205] {dag.py:1834} INFO - Sync 1 DAGs
+[2021-09-20 02:08:48,249] {logging_mixin.py:109} INFO - [2021-09-20 02:08:48,249] {dag.py:2287} INFO - Setting next_dagrun for example_complex to None
+[2021-09-20 02:08:48,287] {processor.py:170} INFO - Processing /home/wilson/Documentos/alura/datapipeline/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.525 seconds
